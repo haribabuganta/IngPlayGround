@@ -30,8 +30,8 @@ public class Testcontroller {
         int aa = testcontroller.getCount();
         System.out.println("count------------" + aa);
 
-        Testcontroller testcontroller=new Testcontroller();
-       String ss= testcontroller.getDetails();
+        Testcontroller testcontroller1=new Testcontroller();
+       String ss= testcontroller1.getDetails();
         System.out.println("details are "+ss);
 
     }
