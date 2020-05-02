@@ -6,6 +6,7 @@ public class Testcontroller {
 
     private String name;
     private int id;
+    private String country;
 
     public Testcontroller(String name, int id) {
         this.name = name;
