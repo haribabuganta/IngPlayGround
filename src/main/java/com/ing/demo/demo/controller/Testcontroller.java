@@ -23,7 +23,7 @@ private String name;
 
     public static void main(String[] args) {
         Testcontroller testcontroller = new Testcontroller();
-    
+
 
         Testcontroller testcontroller1=new Testcontroller();
        String ss= testcontroller1.getDetails();
