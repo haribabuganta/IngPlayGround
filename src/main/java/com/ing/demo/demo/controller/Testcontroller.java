@@ -7,6 +7,7 @@ public class Testcontroller {
     private String name;
     private int id;
     private String country;
+    private double amount;
 
     public Testcontroller(String name, int id) {
         this.name = name;
@@ -17,6 +18,11 @@ public class Testcontroller {
 
         return 90;
 
+    }
+
+    public void get(){
+
+        System.out.println("test");
     }
 
 
